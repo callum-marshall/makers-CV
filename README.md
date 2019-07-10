@@ -17,14 +17,7 @@ An ex Meat Trader come Makers Academy graduate, disillusioned with the meat indu
 Having worked my way up from a shop assistant, to an assistant foreman, to being second in command at a small business,
 I dipped my toes into tech with a few short courses before deciding to take the leap into software development; combining my passion for problem solving with a desire to do something better.  
 
-I'm looking for a role at which I can apply my existing skillset and build upon it, continuing to learn, working as part of a team delivering interesting projects; collaborating with likeminded peoplein a positive, supportive environment
-
-* A sentence about who and what you are.
-* Then a sentence about what you've achieved.
-* And then a sentence about what you're looking for:
-* what you would ideally be doing,
-* with whom
-* and in what environment.
+I'm looking for a role at which I can apply my existing skills and build upon them. Continuing to learn, working as part of a team delivering interesting projects, collaborating with likeminded people in a positive, supportive environment
 
 ## Projects
 
