@@ -13,7 +13,17 @@
 
 ## Background
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+An ex Meat Trader come Makers Academy graduate, disillusioned with the meat industry (and what it's doing to the planet).
+Having worked my way up from a shop assistant, to an assistant foreman, to being second in command at a small business,
+I dipped my toes into tech with a few short courses before deciding to take the leap into software development; combining my passion for problem solving with a desire to do something better.
+I'm looking for a role at which I can apply my existing skillset and build upon it, continuing to learn, working as part of a team delivering interesting projects; collaborating with likeminded peoplein a positive, supportive environment
+
+=A sentence about who and what you are.
+=Then a sentence about what you've achieved.
+=And then a sentence about what you're looking for:
+=what you would ideally be doing,
+=with whom
+=and in what environment.
 
 ## Projects
 
@@ -46,11 +56,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Mulberry International** |London, UK| (May 2009 to March 2019)    
 *Meat Trader, Purchases, Sales, Stock Control, Shipping, Office Manager*  
-**Elliott Wholesale Meats** |Sydney, Australia| (August 2008 to April 2009)   
+**Elliott Wholesale Meats** |Sydney, Australia| (July 2008 to April 2009)   
 *Assistant Foreman, Sales*  
-**Sanger Australia PTY Ltd** |Sydney, Australia| (October 2007 to August 2008)   
-*Sales*  
-**R.H. Thompson Smithfield** |London, UK| (August 2008 to April 2009)   
+**Sanger Australia** |Sydney, Australia| (October 2007 to July 2008)   
+*Sales*
+**R.H.Thompson & Co Smithfield** |London, UK| (August 2006 to September 2007)   
 *Shop Assistant*  
 
 ## Education
