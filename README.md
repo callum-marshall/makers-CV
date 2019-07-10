@@ -1,11 +1,15 @@
 <h1 align="center">Callum Marshall</h1>
 
+<div align="center">
+
 [Background ](#background) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
 [Interests ](#interests)
+
+</div>
 
 ## Background
 
