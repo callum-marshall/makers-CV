@@ -31,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript,
 - RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
@@ -44,7 +44,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Mulberry International, UK** (May 2009 to March 2019)    
+*Meat Trader, Purchases, Sales, Stock Control, Shipping, Office Manager*  
+**Elliott Wholesale Meats, Australia** (August 2008 to April 2009)   
+*Assistant Foreman, Sales*  
+**Sanger Australia PTY Ltd** (October 2007 to August 2008)   
+*Sales*  
+**R.H. Thompson Smithfield** (August 2008 to April 2009)   
+*Shop Assistant*  
