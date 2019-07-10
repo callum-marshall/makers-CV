@@ -1,8 +1,18 @@
-## Callum Marshall
+<h1 align="center">Callum Marshall</h1>
+
+[Background ](#background) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[Interests ](#interests)
+
+## Background
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Projects
+
 | Title | Description | Development Timeframe | Technologies Used |
 |--|--|--|--|
 | [Breathe](https://github.com/callum-marshall/Breathe) | Concerned with reports of London's worsening air quality and frustrated with the availability and accessibility of air quality information, we set out to build an iOS app that makes realtime air quality information available at your fingertips. | 10 days | Swift, Xcode, XCTest |
@@ -28,6 +38,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Experience
+
+**Mulberry International** |London, UK| (May 2009 to March 2019)    
+*Meat Trader, Purchases, Sales, Stock Control, Shipping, Office Manager*  
+**Elliott Wholesale Meats** |Sydney, Australia| (August 2008 to April 2009)   
+*Assistant Foreman, Sales*  
+**Sanger Australia PTY Ltd** |Sydney, Australia| (October 2007 to August 2008)   
+*Sales*  
+**R.H. Thompson Smithfield** |London, UK| (August 2008 to April 2009)   
+*Shop Assistant*  
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
@@ -48,14 +69,3 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Other cool stuff
 
 #### Any other qualifications
-
-## Experience
-
-**Mulberry International** |London, UK| (May 2009 to March 2019)    
-*Meat Trader, Purchases, Sales, Stock Control, Shipping, Office Manager*  
-**Elliott Wholesale Meats** |Sydney, Australia| (August 2008 to April 2009)   
-*Assistant Foreman, Sales*  
-**Sanger Australia PTY Ltd** |Sydney, Australia| (October 2007 to August 2008)   
-*Sales*  
-**R.H. Thompson Smithfield** |London, UK| (August 2008 to April 2009)   
-*Shop Assistant*  
