@@ -5,7 +5,7 @@
 [Background ](#background) |
 [Projects ](#projects) |
 [Experience ](#experience) |
-[Education ](#education) |
+[Education ](#education)
 
 </div>
 
