@@ -28,13 +28,17 @@ I'm looking for a role at which I can apply my existing skills and build upon th
 ## Experience
 
 **Mulberry International** |London, UK| (May 2009 to March 2019)    
-*Meat Trader, Purchases, Sales, Stock Control, Shipping, Office Manager*  
+*Meat Trader, Purchases, Sales, Stock Control, Shipping, Office Manager*
+  
 **Elliott Wholesale Meats** |Sydney, Australia| (July 2008 to April 2009)   
 *Assistant Foreman, Sales*  
+  
 **Sanger Australia** |Sydney, Australia| (October 2007 to July 2008)   
-*Sales*
+*Sales*  
+  
 **R.H.Thompson & Co Smithfield** |London, UK| (August 2006 to September 2007)   
 *Shop Assistant*  
+  
 
 ## Education
 
