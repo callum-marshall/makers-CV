@@ -38,13 +38,13 @@ I'm looking for a role at which I can apply my existing skills and build upon th
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2019 - June 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
+- Fast, independent learner 
+- Great collaborator 
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, BDD, SRP
 - Agile/XP, Pair Programming, Code Reviews
 - Ruby, Rails, JavaScript, Swift
 - RSpec, Jasmine, XCTest
