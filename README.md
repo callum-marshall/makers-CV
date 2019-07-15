@@ -10,12 +10,10 @@
 </div>
 
 ## Background
+  
+A Makers Academy graduate. My career began in the meat industry, where I worked my way up from Shop Assistant to second in command at a small meat trading LLC. After becoming disillusioned with the industry and frustrated by its environmental effects, I dipped my toes into tech by taking a few short courses in coding. I decided then to make the leap into software development, a field that allows me to combine my problem solving skills with my desire to make a positive contribution to the world.
 
-An ex Meat Trader come Makers Academy graduate, disillusioned with the meat industry (and what it's doing to the planet).
-I have worked my way up from a shop assistant, to an assistant foreman, to being second in command at a small business.
-I dipped my toes into tech with a few short courses before deciding to take the leap into software development; combining my passion for problem solving with a desire to do something better.  
-
-I'm looking for a role at which I can apply my existing skills and build upon them. Continuing to learn, working as part of a team delivering interesting projects and collaborating with likeminded people in a positive, supportive environment
+I am looking for a role that will allow me the opportunity to both exercise my existing skills and continue to learn. My ideal work environment is a positive, collaborative team delivering varied and interesting projects.  
 
 ## Projects
 
