@@ -50,5 +50,5 @@ I'm looking for a role at which I can apply my existing skills and build upon th
 
 - OOP, TDD, MVC, BDD, SRP
 - Agile/XP, Pair Programming, Code Reviews
-- Ruby, Rails, JavaScript, Swift
+- Ruby, Rails, JavaScript, Swift, PostgreSQL
 - RSpec, Jasmine, XCTest
