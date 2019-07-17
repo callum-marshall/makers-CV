@@ -20,7 +20,7 @@ I am looking for a role that will allow me the opportunity to both exercise my e
 | Title | Description | Development Timeframe | Technologies Used |
 |--|--|--|--|
 | [Breathe](https://github.com/callum-marshall/Breathe) | Concerned with reports of London's worsening air quality and a lack of accessible air quality information, we taught ourselves Swift and built an iOS app that makes real-time air quality information available at your fingertips. | 10 days | Swift, Xcode, XCTest |
-| [Acebook](https://github.com/callum-marshall/acebook-FiveGuys) | The primary goal of our Acebook project was to be able to achieve and evidence that we have used high-quality processes to build a project in a team. The project in this case being a clone of Facebook with a retro aesthetic. | 10 days | Ruby on Rails, HTML/CSS, JQuery, PostgreSQL, RSpec, Capybara, Travis CI, Heroku CD, Codacy |
+| [Acebook](https://github.com/callum-marshall/acebook-FiveGuys) | The primary goal of our Acebook project was to learn as a group and use high-quality processes to build a project in a team. The project in this case being a clone of Facebook with a retro aesthetic. | 10 days | Ruby on Rails, HTML/CSS, JQuery, PostgreSQL, RSpec, Capybara, Travis CI, Heroku CD, Codacy |
 | [Bowling Scorecard](https://github.com/callum-marshall/bowling-challenge) | An exercise in using OOP and TDD to make a Bowling Scorecard; working from the classic kata and applying Makers principles to create a robust app | 2 days |HTML/CSS, JavaScript, Jasmine |
 
 ## Experience
