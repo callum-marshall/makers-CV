@@ -18,16 +18,16 @@ I am looking for a role that will allow me the opportunity to both exercise my e
 ## Technologies
  
 **Languages**   
-*Ruby, Javascript (AJAX, JSON), Swift, C, CSS, HTML, SQL*
+*JavaScript, Ruby, Swift, C, SQL, HTML, CSS*
  
 **Frameworks/Libraries**   
-*Ruby on Rails, Rspec, Capybara, Node.js, jQuery, Jest, Jasmine*
+*React, Node.js, Jest, Enzyme, Jasmine, Ruby on Rails, Rspec, Capybara*
  
 **Database/Industry Tools**    
 *PostgreSQL, Git, Github, Travis CI, Heroku*
  
 **Processes/Practices**    
-*OOP, TDD, BDD, SRP, MVC, Agile/XP, Pair programming, Code Reviews*
+*Agile/XP, TDD, BDD, SRP, MVC, OOP, Pair programming, Code Reviews*
 
 ## Projects
 
@@ -67,4 +67,3 @@ I’ve spent a significant amount of my professional life in an area that is bot
 
 **Analytical and Pragmatic**   
 Successfully working in sales and purchases for an extended period of time requires a keen analytical mind, which I have worked hard to hone over the years. Stock control and forecasting likewise depend on pragmatism and analysis. These have been particularly useful qualities to bring to software engineering, where I’ve been able to incorporate them into my TDD process and apply them when planning and modelling, leading to performant, easy to read code that is well tested.  
-
